@@ -27,3 +27,18 @@ This is the **official codebase** of U-SAM.
 ### 📬 Stay Connected
 
 For questions or collaboration inquiries, feel free to open an issue or reach out via email (listed in the paper).
+
+### 📖 Citation
+
+If you find **U-SAM** useful in your research or work, please consider citing our paper:
+
+```bibtex
+@misc{wang2025usamaudiolanguagemodel,
+  title     = {U-SAM: An Audio Language Model for Unified Speech, Audio, and Music Understanding},
+  author    = {Ziqian Wang and Xianjun Xia and Xinfa Zhu and Lei Xie},
+  year      = {2025},
+  eprint    = {2505.13880},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.AS},
+  url       = {https://arxiv.org/abs/2505.13880}
+}
